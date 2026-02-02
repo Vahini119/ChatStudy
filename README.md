@@ -108,6 +108,8 @@ while not done:
 client.close()
 server.close()
 ```
+## output:
+![alt text](<Screenshot 2026-02-02 211255.png>)
 
 
 ## Result:
